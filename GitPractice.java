@@ -1,4 +1,4 @@
-package git;
+package GitPractice;
 
 public class GitPractice {
 	public static void mai(String[] args) {
